@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: aniruddh030502/pythonimghelloworld1
+        image: aniruddh030502/pythonimghelloworld2:latest
         ports:
         - containerPort: 5000
