@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/gAmadorH/flask-hello-world.svg?color=blue)](https://github.com/gAmadorH/flask-hello-world/blob/master/LICENSE)
 
-A simple Flask hello world application.
+A simple Flask hello world application...
 
 ## Requirements
 
